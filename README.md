@@ -107,8 +107,11 @@ With an easy-to-use web interface, OkeyProxy simplifies the process of managing 
 Select the best UK proxy based on your specific use case:
 
 Residential Proxies: Real IP addresses from UK ISPs, providing high anonymity.
+
 [Data Center Proxies](https://www.okeyproxy.com/en/datacenter-proxies): Faster and more affordable but may be easier to detect.
+
 [Static Proxies](https://www.okeyproxy.com/en/static-residential-proxies): Fixed UK IP addresses for consistent identity.
+
 [Rotating Proxies](https://www.okeyproxy.com/en/residential-proxies): New UK IP addresses for each request, ideal for web scraping.
 
 2. Obtain Proxy Credentials
